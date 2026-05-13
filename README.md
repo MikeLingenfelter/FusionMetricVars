@@ -7,6 +7,8 @@ countersink geometry, washer dimensions, and a derived chamfer value — all
 sourced from a single CSV file so the data is easy to maintain independently
 of the script.
 
+These values are primarily used, when designing parts that are 3D Printed.
+
 ---
 
 ## Parameter Groups
